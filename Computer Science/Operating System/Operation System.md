@@ -73,6 +73,8 @@
   - 파일 형식의 데이터 저장
   - 이런 파일 데이터 관리를 위한 파일 시스템을 OS에서 관리
   - `FAT, NTFS, EXT2, JFS, XFS` 등 많은 파일 시스템들이 개발되어 사용 중
+
+파일시스템 관련 내용 : https://melonicedlatte.com/computerarchitecture/2020/03/02/204500.html
   <br>
 ### 3. 네트워킹
 
